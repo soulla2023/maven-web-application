@@ -85,14 +85,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://100.25.144.108:8081/repository/tesla-releases/</url>
+	      <name>billionnaires1</name>
+	      <url>http://35.183.21.128:8081/repository/b-release/</url>
 	    </repository>
 	   
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://100.25.144.108:8081/repository/tesla-snapshot/</url>
+	      <name>billionnaires1</name>
+	      <url>http://35.183.21.128:8081/repository/b-snapshot/</url>
 	    </snapshotRepository>
 	   
 	</distributionManagement>
